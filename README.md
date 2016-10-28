@@ -54,7 +54,7 @@ Finally, we get to the core task of the day. For a group of people that work tog
 
 After they've worked for a while, the "airports made of cake" activity teaches that random and off-the-wall ideas can sometimes lead to surprisingly novel design solutions.
 
-Finally, at the end of the day, each group shares their thinking. This is an important part of design. It's important watching your idea be shared with a greater group and seeing how everyone responds so you can iterate further on the design and improve it further.
+Finally, at the end of the day, each group shares their thinking. This is an important part of design. It's important watching your idea be shared with a greater group and seeing how everyone responds so you can iterate further on the design.
 
 And that's how a Design Play workshop works.
 
@@ -66,4 +66,4 @@ Design Play is an informal conference that we've done for three years. First in 
 2. Find some creative things to do together
 3. Leave plenty of time for open conversation
 
-And that's how we run the conference.
+And that's how we run the conference. It's a lot of fun. By design.
