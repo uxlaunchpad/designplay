@@ -67,3 +67,5 @@ Design Play is an informal conference that we've done for three years. First in 
 3. Leave plenty of time for open conversation
 
 And that's how we run the conference. It's a lot of fun. By design.
+
+There is a fourth installment of Design Play conference coming this year in Los Angeles and applications are open for new attendees. http://designplay.online/
